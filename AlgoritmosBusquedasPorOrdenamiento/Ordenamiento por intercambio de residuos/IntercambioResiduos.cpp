@@ -16,7 +16,7 @@ void cambiarResiduos(int arreglo[], int izq, int der, int b){
 			while(!bits(arreglo[i],b,1) && i<j){
 				i++;
 			}
-			while(bits(arreglo[j],b,1) && j<i){
+			while(bits(arreglo[j],b,1) && j>i){
 				j--;
 			}
 			//intercambio
@@ -33,7 +33,7 @@ void cambiarResiduos(int arreglo[], int izq, int der, int b){
 }
 
 int main(){	
-	int n = 4;
+	int n = 9;
 	int array[n];
 	unsigned t0, t1;
 	clock_t t;
