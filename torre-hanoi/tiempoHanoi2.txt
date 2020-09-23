@@ -1,0 +1,83 @@
+Numero de discos: 1
+9,999999999999999e-005
+Numero de discos: 2
+9,999999999999999e-005
+Numero de discos: 3
+9,999999999999999e-005
+Numero de discos: 4
+0,0005999999999999999
+Numero de discos: 5
+0,0005
+Numero de discos: 6
+0,0007
+Numero de discos: 7
+0,0014
+Numero de discos: 8
+0,0019
+Numero de discos: 9
+0,0038
+Numero de discos: 10
+0,006399999999999999
+Numero de discos: 11
+0,0158
+Numero de discos: 12
+0,0298
+Numero de discos: 13
+0,0587
+Numero de discos: 14
+0,0575
+Numero de discos: 15
+0,1129
+Numero de discos: 16
+0,4742
+Numero de discos: 17
+0,7127
+Numero de discos: 18
+1,831
+Numero de discos: 19
+3,2488
+Numero de discos: 20
+5,5845
+Numero de discos: 21
+9,1839
+Numero de discos: 22
+21,2328
+Numero de discos: 23
+34,9533
+Numero de discos: 24
+57,6614
+Numero de discos: 25
+97,6194
+Numero de discos: 26
+208,6561
+Numero de discos: 27
+399,2243
+Numero de discos: 28
+849,6939
+Numero de discos: 29
+1515,0695
+Numero de discos: 30
+3139,6494
+Numero de discos: 31
+6830,0958
+Numero de discos: 32
+12673,6327
+Numero de discos: 33
+28772,3382
+Numero de discos: 34
+69378,9192
+Numero de discos: 35
+118486,0662
+Numero de discos: 36
+265068,6874
+Numero de discos: 37
+438520,544
+Numero de discos: 38
+821984,872
+Numero de discos: 39
+1642129,3767
+Numero de discos: 40
+3269690,5528
+Numero de discos: 41
+6537544,0366
+Numero de discos: 42
